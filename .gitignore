@@ -1,0 +1,5 @@
+venv310
+__pycache__
+api__3_code/app/__pycache__
+api__3_code/app/internal/__pycache__
+api__3_code/app/routers/__pycache__
