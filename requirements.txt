@@ -1,3 +1,6 @@
 uvicorn==0.54.0
 fastapi==0.141.1
 sqlmodel==0.0.47
+python-multipart==0.0.32
+PyJWT==2.15.1
+pwdlib==0.3.1
